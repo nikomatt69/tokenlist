@@ -57,6 +57,14 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://i.imgur.com/dUZbUQA.png"
+    },
+    {
+      "name": " Liquid Staking Matic",
+      "symbol": "MaticX",
+      "address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://imgur.com/145pV2V"
     }
   ]
 }
