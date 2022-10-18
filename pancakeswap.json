@@ -7,7 +7,7 @@
     "patch": 1
   },
   "tags": {},
-  "logoURI": "/images/coins/WMATIC.png",
+  "logoURI": "/images/Swaps.png",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -24,7 +24,7 @@
       "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "/images/coins/USDT.png"
+      "logoURI": "https://github.com/umidao/tokenlist/blob/master/USDT.svg"
     },
     {
       "name": "USD Coin",
@@ -51,12 +51,20 @@
       "logoURI": "/images/coins/WBTC.png"
     },
     {
-      "name": " Sea Light Capital Token",
-      "symbol": "SLC",
-      "address": "0x81966f1C3676D72BBF3E6ca08A8996C162976A97",
+      "name": " SeaLightSwap",
+      "symbol": "SEAS",
+      "address": "0xC299DFC5F65532dA6Df982f43935b3CF814081Cd",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://i.imgur.com/dUZbUQA.png"
+    },
+    {
+      "name": " Curve DAO Token",
+      "symbol": "CRV",
+      "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "/images/coins/CRV.png"
     },
     {
       "name": " Stader MaticX",
@@ -69,7 +77,7 @@
     {
       "name": "Frax Share",
       "symbol": "FXS",
-      "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+      "address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "/images/coins/FXS.png"
